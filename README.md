@@ -41,6 +41,8 @@
 
 ---
 
+![Snake animation](https://github.com/Kissa-Zehra/Kissa-Zehra/blob/output/snake.svg)
+
 <h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
@@ -56,6 +58,7 @@
 </p>
 
 ---
+
 
 <p align="center">
   📝 "Code is like humor. When you have to explain it, it’s bad."  
