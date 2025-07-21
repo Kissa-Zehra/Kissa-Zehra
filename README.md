@@ -1,4 +1,8 @@
-<h1 align="center">✨ Hey, I'm Kissa Zehra ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=850&lines=Hey+there+👋,+I'm+Kissa+Zehra!;CS+Undergrad+🚀+Tech+Explorer+🧠;Loves+to+Build+💻+Break+🚨+and+Learn+💡;Always+curious+🌟+Always+coding+💻" />
+</p>
+
+
 
 <p align="center">
    CS Undergrad @ NUCES-FAST | Class of 2027<br>
