@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=850&lines=Hey+there+👋,+I'm+Kissa+Zehra!;CS+Undergrad+🚀+Tech+Explorer+🧠;Loves+to+Build+💻+Break+🚨+and+Learn+💡;Always+curious+🌟+Always+coding+💻" />
+  <a href="https://github.com/Kissa-Zehra">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=8FA1B3&size=32&center=true&vCenter=true&width=850&lines=Hey+there,+I'm+Kissa+Zehra;CS+Undergrad+%7C+Tech+Explorer;Loves+to+Build,+Break,+and+Learn;Always+Curious+%7C+Always+Coding">
+  </a>
 </p>
+
 
 
 
