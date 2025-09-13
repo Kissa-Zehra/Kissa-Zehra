@@ -8,7 +8,7 @@
 <p align="center">
    CS Undergrad @ NUCES-FAST | Class of 2027<br>
    A curious coder turning bugs into breakthroughs<br>
-   Exploring the world of DSA, ML & Web Dev — one commit at a time<br>
+   Exploring the world of DSA, ML & Web Dev. one commit at a time<br>
   🌱 Currently learning & building cool stuff (while occasionally breaking things)
 </p>
 
