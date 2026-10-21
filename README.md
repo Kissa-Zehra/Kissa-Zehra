@@ -39,14 +39,21 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kissa-Zehra&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kissa-Zehra&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kissa-Zehra&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kissa-Zehra&theme=tokyonight" width="360"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kissa-Zehra&theme=tokyonight" width="360"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kissa-Zehra&theme=tokyonight&hide_border=true&border_radius=10" width="500"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
