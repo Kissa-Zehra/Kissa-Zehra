@@ -39,14 +39,18 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kissa-Zehra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kissa-Zehra&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/> 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kissa-Zehra&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kissa-Zehra&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kissa-Zehra&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
 </p>
 
 ---
 
-![Snake animation](https://github.com/Kissa-Zehra/Kissa-Zehra/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Kissa-Zehra/Kissa-Zehra/output/snake.svg)
 
 <h3 align="center">🌐 Let's Connect</h3>
 
@@ -70,4 +74,3 @@
 </p>
 
 <!-- Proudly created by Kissa Zehra -->
-
