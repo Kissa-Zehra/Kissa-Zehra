@@ -37,6 +37,29 @@
 
 ---
 
+<h3 align="center">🏆 Hackathon Projects</h3>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <b>Sahara</b> · Coder's Cup '26 AI Hackathon (FAST-NUCES Karachi)<br><br>
+      A prototype that helps a widow claim her late husband's pension on a cheap phone, in Urdu with voice and pictures, even on weak signal, and keeps the money safe from scams and wrong heirs. AI checks scam messages and documents; when it is not sure, a human officer decides.<br><br>
+      <b>My part:</b> citizen app screens, offline outbox (claims saved on the phone, sent exactly once), Sindhi and Punjabi language support, Playwright tests at phone width, demo script, Q&amp;A prep and demo video.<br><br>
+      <a href="https://github.com/Aiza166/AI-Hackathon">Repo</a> · <a href="https://confident-growth-production-1cfebeef.up.railway.app">Live demo</a><br>
+      <sub>React PWA · FastAPI · PostgreSQL · Jev + gpt-5-mini · Azure · Railway. Team project with Aiza Gazyani.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Blind Spot</b> · NASA Space Apps Challenge 2026<br><br>
+      A harmonized MODIS + VIIRS burning calendar for Pakistan and northern India. It shows the 2012 "+613% burning jump" in Punjab was a change of satellite, not a crisis, and flags the years where the correction can't be trusted.<br><br>
+      <b>My part:</b> deployed the app on Cloudflare Pages with the live current-month feed from NASA FIRMS, added the 2026 data, the caution banner and legend, browser tests and the mobile check, the project page and the video script.<br><br>
+      <a href="https://github.com/Aiza166/BlindSpot-FIRMS">Repo</a> · <a href="https://blindspot-firms.pages.dev">Live app</a><br>
+      <sub>Next.js · MapLibre · DuckDB-WASM · Python · Cloudflare Pages. Team project with Aiza Gazyani.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <table align="center">
